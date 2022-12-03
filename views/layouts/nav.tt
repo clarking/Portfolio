@@ -1,0 +1,27 @@
+<nav class="navbar">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item logo" href="[% request.uri_base %]">
+                <h3>Aaron Clark Diaz</h3>
+            </a>
+            <span class="navbar-burger burger" data-target="navbarMenu">
+              <span></span>
+              <span></span>
+              <span></span>
+            </span>
+        </div>
+        <div id="navbarMenu" class="navbar-menu">
+            <div class="navbar-end">
+                <a href="[% request.uri_base %] " class="navbar-item is-active is-size-5">
+                    Home
+                </a>
+                <a href="[% request.uri_base %]/work" class="navbar-item is-size-5">
+                    Work
+                </a>
+                <a href="[% request.uri_base %]/about" class="navbar-item is-size-5">
+                    About
+                </a>
+            </div>
+        </div>
+    </div>
+</nav>

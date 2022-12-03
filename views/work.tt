@@ -1,0 +1,88 @@
+<section class="hero ">
+    <div class="hero-body">
+        <section class="container">
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-5 has-text-grey">Web development</h2>
+                            <h1 class="title">Personal Website Migration and Update</h1>
+                            <p>A well deserved update for my website, designed and implemented in a day, including a migration from a free hosting service to an AWS EC2 instance</p>
+                            <p>It's really basic and completely static, but performance and simplicity were the goals and aside from some minor improvements i'm pretty happy with the results.</p>
+                        </div>
+                        <a class="" href="https://github.com/clarking/Portfolio" > <i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-5 has-text-grey">Language development</h2>
+                            <h1 class="title">xlang</h1>
+                            <p>Work continues on simplify and clean the project, I have some ideas for features like namespaces that
+                                would be cool to have, but right now the goal is to provide proper support for x64. </p>
+                        </div>
+                        <a href="https://github.com/clarking/xlang" > <i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="content is-medium">
+                            <h1 class="title">Panda Smalltalk</h1>
+                            <h2 class="subtitle is-5 has-text-grey">Language Development</h2>
+                            <p>Experiments with modified smalltalk's haven't stopped yet, and this time was the Panda's turn. Now that we have a better
+                                organized code (not perfect by any means), I can start prototyping a kernel and figure out the bootstrap process.
+                        </div>
+                        <a href="https://github.com/clarking/panda-smalltalk" > <i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-5 has-text-grey">JIT hacking</h2>
+                            <h1 class="title">Strongtalk</h1>
+                            <p>After many hours of tinkering with the VM it finally builds, it still does nothing and crashes just after startup, but now we have something to work with. The next step would be to create a new image and add compatibility with X11 but still a long way to go.
+                            </p>
+                        </div>
+                        <a href="https://github.com/clarking/Strongtalk" > <i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-5 has-text-grey">Open Source</h2>
+                            <h1 class="title">Syntax for Micro Editor</h1>
+                            <p>Created Pull Requests for syntax files that were missing, Now we have proper highlighting for Holy-C and Smalltalk</p>
+                        </div>
+                        <a href="https://github.com/zyedidia/micro" > <i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-5 has-text-grey">Language development</h2>
+                            <h1 class="title">Assembly Script</h1>
+                            <p>Forked one of the <a href="https://www.youtube.com/@SystemsWithJT">JT's</a> language jam projects that was hosted on YouTube, as it seemed to suit my needs for higher level language,
+                                but not as high as 'C' and it looked similar to xlang. It's mostly a prototype, but it's a good basis for an upcoming compiler project.</p>
+                        </div>
+                        <a href="https://github.com/clarking/asmscript" > <i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </section>
+        </section>
+    </div>
+</section>

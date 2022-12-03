@@ -1,0 +1,26 @@
+<footer class="footer">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-8">
+                <h4 class="">
+                    Site by <strong>Aaron Clark Diaz</strong>.
+                    <br>
+                </h4>
+                <div class="">
+                    <a href="mailto:clarkaaron@hotmail.com" ><strong>clarkaaron@hotmail.com</strong></a>
+                </div>
+                <div class="">
+                    <p>Powered by: <a href="http://perldancer.org/">Dancer2</a> and <a href="https://bulma.io/">Bulma</a></p>
+                </div>
+            </div>
+            <div class="column is-4 is-offset-2">
+                <div class="bd-footer-iframe is-github">
+                    <iframe src="https://ghbtns.com/github-btn.html?user=clarking&type=follow&count=false&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
+                </div>
+            </div>
+        </div>
+        <div class="content has-text-centered">
+
+        </div>
+    </div>
+</footer>

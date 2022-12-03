@@ -1,0 +1,198 @@
+<section class="hero ">
+    <div class="hero-body">
+        <section class="container">
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="tile is-ancestor">
+                            <div class="tile is-vertical ">
+                                <div class="tile">
+                                    <div class="tile is-parent is-vertical">
+                                        <article class="tile is-child notification is-primary">
+                                            <p class="title">+15 years</p>
+                                            <p class="subtitle">Working on IT</p>
+                                        </article>
+                                        <article class="tile is-child notification is-primary">
+                                            <p class="title">+8 years</p>
+                                            <p class="subtitle">Developing Software</p>
+                                        </article>
+                                    </div>
+                                    <div class="tile is-parent">
+                                        <article class="tile is-child notification is-primary">
+                                            <p class="title">Areas</p>
+                                            <ul class="content">
+                                                <li><p class="subtitle">CyberSecurity</p></li>
+                                                <li><p class="subtitle">Management</p></li>
+                                                <li><p class="subtitle">Financial</p></li>
+                                                <li><p class="subtitle">Education</p></li>
+                                            </ul>
+                                        </article>
+                                    </div>
+                                    <div class="tile is-parent">
+                                        <article class="tile is-child notification is-primary">
+                                            <p class="title">Solutions</p>
+                                            <ul class="content">
+                                                <li><p class="subtitle">Web / Cloud</p></li>
+                                                <li><p class="subtitle">Desktop</p></li>
+                                                <li><p class="subtitle">Mobile</p></li>
+                                            </ul>
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tile is-ancestor">
+                            <div class="tile is-parent">
+                                <article class="tile is-child notification is-primary">
+                                    <p class="title">Activities</p>
+                                    <p class="subtitle">Application Design, Development, Maintenance, Training and Support</p>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="content is-medium">
+                            <h1 class="title">Technical:</h1>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">C#</h2>
+                            <progress class="progress is-primary" value="85" max="100">85%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">Html / CSS</h2>
+                            <progress class="progress is-primary" value="80" max="100">80%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">Javascript</h2>
+                            <progress class="progress is-primary" value="80" max="100">80%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">PHP</h2>
+                            <progress class="progress is-primary" value="60" max="100">60%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">C / C++</h2>
+                            <progress class="progress is-primary" value="60" max="100">60%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">Perl</h2>
+                            <progress class="progress is-primary" value="70" max="100">70%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">Python</h2>
+                            <progress class="progress is-primary" value="50" max="100">50%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">TypeScript</h2>
+                            <progress class="progress is-primary" value="70" max="100">70%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">Smalltalk</h2>
+                            <progress class="progress is-primary" value="60" max="100">60%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">Go</h2>
+                            <progress class="progress is-primary" value="30" max="100">30%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">Assembly</h2>
+                            <progress class="progress is-primary" value="50" max="100">50%</progress>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="columns">
+                    <div class="column is-8 is-offset-2">
+                        <div class="content is-medium">
+                            <h1 class="title">RDBMS</h1>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">SQL Server</h2>
+                            <progress class="progress is-primary" value="70" max="100">70%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">MySQL</h2>
+                            <progress class="progress is-primary" value="50" max="100">50%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">PostreSQL</h2>
+                            <progress class="progress is-primary" value="50" max="100">50%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">Oracle Database</h2>
+                            <progress class="progress is-primary" value="40" max="100">40%</progress>
+                        </div>
+                        <div class="content is-medium">
+                            <h2 class="subtitle is-4">SQLite</h2>
+                            <progress class="progress is-primary" value="40" max="100">50%</progress>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="columns is-variable is-8">
+                    <div class="column is-5 is-offset-1">
+                        <div class="content is-medium">
+                            <h1 class="title">Platforms</h1>
+                            <ul>
+                                <li><h2 class="subtitle is-4">x86_64</h2></li>
+                                <li><h2 class="subtitle is-4">Arm</h2></li>
+                                <li><h2 class="subtitle is-4">Amtel AVR (Arduino)</h2></li>
+                                <li><h2 class="subtitle is-4">Xtensa (Esp32)</h2></li>
+                                <li><h2 class="subtitle is-4">6502 (8-bit TTL)</h2></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="column is-5">
+                        <div class="content is-medium">
+                            <h1 class="title">Operating Systems</h1>
+                            <ul>
+                                <li><h2 class="subtitle is-4">Windows +27 years</h2></li>
+                                <li><h2 class="subtitle is-4">Linux +20 years</h2></li>
+                                <li><h2 class="subtitle is-4">Mac +5 years</h2></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="is-divider"></div>
+            <section class="section">
+                <div class="column is-offset-1">
+                    <div class="content is-medium ">
+                        <h1 class="title ">Interests</h1>
+                    </div>
+                    <div class="columns ">
+                        <div class="column is-5 ">
+                            <div class="content is-medium">
+                                <ul>
+                                    <li><h2 class="subtitle is-4">Operating Systems Development</h2></li>
+                                    <li><h2 class="subtitle is-4">AOT / JIT Compiler Development</h2></li>
+                                    <li><h2 class="subtitle is-4">MicroControllers</h2></li>
+                                    <li><h2 class="subtitle is-4">Embedded Systems</h2></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="column is-5 is-offset-1">
+                            <div class="content is-medium">
+                                <ul>
+                                    <li><h2 class="subtitle is-4">Retro Computing</h2></li>
+                                    <li><h2 class="subtitle is-4">3D Printing and Modeling</h2></li>
+                                    <li><h2 class="subtitle is-4">Computer Architectures</h2></li>
+                                    <li><h2 class="subtitle is-4">Audio Signal Processing</h2></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+    </div>
+</section>
